@@ -18,3 +18,22 @@ The same idealogy could be applied to ports as well, to allow for a future where
 I also would've built an actual test suite with a proper script, instead of just a quick and dirty trials. This way I could test more data points at random in between and outside of IP/port ranges, providing more insight on edge cases and overall performance. I also didn't test the effect of having a blank CSV. 
 
 Speaking of I think the way I'm extracting text from the CSV and formatting it to my needs is a little crude and could be improved. For example, if you don't include a blank line at the end it will pull off the last character of the last line. I noticed this later on in the process and decided there were more important tasks to do. 
+
+## Teams
+
+All of the teams sound like they provide great places to have impact on an awesome field of Cyber Security, I'd be happy to work with any of them.
+
+ 1. Platform: 
+ I've always been interested in distributed systems and would love to learn more. It seems to me like these problems are necessary and fun to fix
+ 
+ 2. Data:
+ Understanding customers and applying that knowledge to extend data beyond patterns into insights is where the future is. I'm enamored with the hard question of how to provide tools and the infrastrucure to enable people to do more than they could before.
+ 
+ 3. Policy
+ This team seems like it gets to do a great mix of a lot of things and seems like a great environment to learn a lot about different areas of the product. 
+ 
+ 
+ Thanks so much for your consideration!
+ 
+
+
